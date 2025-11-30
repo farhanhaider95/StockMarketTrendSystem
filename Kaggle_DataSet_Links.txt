@@ -1,0 +1,30 @@
+
+# https://www.kaggle.com/datasets/armanmehdikazmi/pakistan-stock-exchange-psx-data-2001-2022 
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("armanmehdikazmi/pakistan-stock-exchange-psx-data-2001-2022")
+
+print("Path to dataset files:", path)
+
+___________________________________________
+# https://www.kaggle.com/datasets/fayaznoor10/pakistan-stock-market-data-20172025
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("fayaznoor10/pakistan-stock-market-data-20172025")
+
+print("Path to dataset files:", path)
+
+___________________________________________
+# https://www.kaggle.com/datasets/dgawlik/nyse
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("dgawlik/nyse")
+
+print("Path to dataset files:", path)
+
+_______________________________
